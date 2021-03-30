@@ -1,6 +1,6 @@
 ### JavaScript
 - - -
-```
+```javascript
 //클릭 시 드롭다운 JS 코드
 //HTML에서 사용하고자 하는 부분에 onclick="함수이름()" 속성 사용
 function 함수이름() {
