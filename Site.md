@@ -6,4 +6,4 @@
 - - -
 ### Others
 - - -
-- font sample : https://thomaspark.co/projects/fontcdn/
+- Font sample : https://thomaspark.co/projects/fontcdn/
