@@ -24,7 +24,7 @@ window.onclick = function(event) {
 - [슬라이드 쇼 JS](slider.js)
 - [materilize.min.js](materilize.min.js)
 - [jquery](jquery.js)
-```
+```javascript
 //슬라이드 쇼 JS코드
 $(document).ready(function() {
   $('.적용할요소의 클래스 이름').slider();
