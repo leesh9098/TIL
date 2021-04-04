@@ -1,5 +1,8 @@
 ### HTML
 - - -
+- Template Sample : http://webjangi.com/design/freetemplate
+- Hover Sample : https://ianlunn.github.io/Hover/#
+
 ### CSS
 - - -
 ### JavaScript
