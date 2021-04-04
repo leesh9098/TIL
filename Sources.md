@@ -21,7 +21,7 @@ window.onclick = function(event) {
 }
 ```
 - - -
-- [슬라이드 쇼 JS](JS/slider.js)
+- [slider](JS/slider.js)
 - [materilize.min.js](JS/materilize.min.js)
 - [jquery](JS/jquery.js)
 - [slideshow](JS/slideshow.js)
