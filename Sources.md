@@ -20,3 +20,5 @@ window.onclick = function(event) {
   }
 }
 ```
+```
+//슬라이드 쇼 JS코드
