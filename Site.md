@@ -7,6 +7,7 @@
 - - -
 ### JavaScript
 - - -
+- JS Sources : https://cdnjs.com/
 ### Others
 - - -
 - Font sample : https://thomaspark.co/projects/fontcdn/
