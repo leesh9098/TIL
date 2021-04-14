@@ -4,6 +4,6 @@
 - [유용한 사이트](Site.md)
 ### React
 - - -
-```react
-array.prototype.concat();
+```React
+// array.prototype.concat();
 ```
