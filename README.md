@@ -6,3 +6,4 @@
 - - -
 ```react
 array.prototype.concat();
+```
