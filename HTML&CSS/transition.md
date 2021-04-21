@@ -1,7 +1,7 @@
 ```css
 /* transition 속성 */
 
-transition-property: all | none | 속성 이름
+transition-property: all | none | 속성 이름;
 /*
 transition을 적용할 속성을 지정
 - all: 요소의 모든 속성에 적용(기본값)
@@ -10,13 +10,13 @@ transition을 적용할 속성을 지정
 */
 
 
-transition-duration: 1s, 2s
+transition-duration: 1s, 2s;
 /*
 transition의 진행 시간을 지정
 요소들에 각각 진행 시간을 지정할 수 있다. 진행 시간을 한 개만 입력하면 지정한 모든 요소에 동일한 진행 시간이 지정된다.
 */
 
-transition-timing-function: linear | ease | ease-in | ease-out | ease-in-out | cubic-bezier(n,n,n,n)
+transition-timing-function: linear | ease | ease-in | ease-out | ease-in-out | cubic-bezier(n,n,n,n);
 /*
 transition 속도 곡선을 지정
 - linear: 처음부터 끝까지 같은 속도로 진행
@@ -28,13 +28,13 @@ transition 속도 곡선을 지정
 */
 
 
-transition-delay: 3s
+transition-delay: 3s;
 /*
 transition의 시작 지연 시간을 지정
 */
 
 
-transition: <property 값> | <duration 값> | <timing-function 값> | <delay 값>
+transition: <property 값> | <duration 값> | <timing-function 값> | <delay 값>;
 /*
 transition의 모든 속성을 한번에 표기하는 방식
 반드시 위 순서로 지정
