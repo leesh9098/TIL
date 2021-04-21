@@ -29,11 +29,15 @@ transition 속도 곡선을 지정
 
 
 transition-delay:
-// transition의 시작 지연 시간을 지정
+/*
+transition의 시작 지연 시간을 지정
+*/
 
 
 transition:
-// transition의 모든 속성을 한번에 표기하는 방식
+/*
+transition의 모든 속성을 한번에 표기하는 방식
+*/
 ```
 cubic-bezier속성 미리보기 링크
 https://cubic-bezier.com/#.17,.67,.83,.67
