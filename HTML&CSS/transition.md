@@ -16,7 +16,6 @@ transition의 진행 시간을 지정
 요소들에 각각 진행 시간을 지정할 수 있다. 진행 시간을 한 개만 입력하면 지정한 모든 요소에 동일한 진행 시간이 지정된다.
 */
 
-
 transition-timing-function:
 /*
 transition 속도 곡선을 지정
@@ -30,15 +29,11 @@ transition 속도 곡선을 지정
 
 
 transition-delay:
-/*
-transition의 시작 지연 시간을 지정
-*/
+// transition의 시작 지연 시간을 지정
 
 
 transition:
-/*
-transition의 모든 속성을 한번에 표기하는 방식
-*/
+// transition의 모든 속성을 한번에 표기하는 방식
 ```
 cubic-bezier속성 미리보기 링크
 https://cubic-bezier.com/#.17,.67,.83,.67
