@@ -10,4 +10,4 @@
 - [push와 concat차이](React/Push&Concat.md)
 ### JavaScript
 - - -
-- [자바스크립트 기초](
+- [자바스크립트 기초](Basic.md)
